@@ -1,5 +1,7 @@
 # YOLOv8 Object Detection Using Laptop Camera
-
+### Developed By
+### Name: Sairam K
+### Reg No: 212225240132
 ## Aim
 
 To access the **laptop camera**, capture an image, and detect objects using **YOLOv8**.
